@@ -1,4 +1,4 @@
-In this program, I'll use word embeddings to do sentiment classification using BERT and ALBERT.
+In this program, I'll execute sentiment classification using BERT and ALBERT.
 
 We have a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets.
 There are a set of 25,000 highly polar movie reviews for training, and a set of 25,000 for testing.
